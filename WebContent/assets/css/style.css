@@ -1,0 +1,118 @@
+body{
+  color:black;
+  font-family: Arial;
+  background-image: url(./images/moviebackground.jpg);
+  background-repeat:no-repeat;
+  background-size:cover;
+}
+
+nav{
+  text-align: center;
+  padding: 0;
+  float: none;
+  width: auto;
+}
+
+h1{
+  font-family: Broadway;
+  height: 100px;
+  margin: 0;
+  text-align: center;
+  background-repeat: no-repeat;
+  background-position: center;
+  color:white;
+  font-size: 50px;
+}
+
+
+nav>ul>li>a{
+  font-weight: bold;
+  text-decoration: none;
+}
+
+nav{
+  text-align: center;
+  padding: 0;
+  float: none;
+  width: auto;
+}
+
+nav>ul{
+  list-style: none;
+  padding-left: 0;
+  font-size: 1.2em;
+  text-align:center;
+}
+
+nav>ul>li{
+  display:inline-block;
+  width:auto;
+  font-size:100%;
+  text-align:center;
+  box-shadow:2px 2px 2px #000000;
+  background-color:#F5F5DC;
+  margin:1%;
+  padding-top:.0;
+  padding-bottom:0;
+  padding-left:.75em;
+  padding-right:.75em;
+  }
+
+nav>ul>li>a:link{
+ color:black;
+}
+
+nav>ul>li>a:visited{
+  color: black;
+}
+
+nav>ul>li>a:hover, nav>ul>li>a:focus{
+  color: red;
+}
+
+
+h2{
+  font-family: Broadway;
+  text-align:center;
+  font-size:200%;
+  color:white;
+}
+
+p{
+	font-family: Calibri;
+	text-align:center;
+	color: white;
+}
+
+
+footer{
+  font-size: .60em;
+  font-style: italic;
+  text-align: center;
+  background-color:#DE1B1B;
+  color:black;
+  padding: 10px;
+  
+}
+
+footer:hover, footer:focus{
+  color: #F5F5DC;
+}
+
+footer:link{
+  color: red;
+}
+
+footer:visited{
+  color:#000000;
+}
+
+
+
+
+
+
+
+
+
+
